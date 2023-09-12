@@ -1,0 +1,13 @@
+{
+  "name": "telephone-booth",
+  "version": "1.0.0",
+  "description": "gl hf",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joao Pedro",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
